@@ -1,0 +1,12 @@
+firewall_rules:
+  inbound:
+  - <Rules Label>
+  - <Rules Label>
+hosts:
+  Host1:
+    fqdn: host1.dyndns.org
+    last_known_ip: ''
+  Host2:
+    fqdn: host1.dyndns.org
+    last_known_ip: ''
+interval: 60
